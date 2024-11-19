@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://anmol@10.11.6.51:/home/anmol/dvc
